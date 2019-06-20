@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firecast-app</string>
+    <string name="hint_autorText">Author</string>
+    <string name="hint_quoteText">Add your quote here!</string>
+    <string name="button_save">Save</string>
+    <string name="button_fetch">Fetch</string>
+    <string name="textViewDefault">Inspiration quote goes here!</string>
+    <string name="MultiautoCTVDefault">List of the quotes!</string>
+</resources>
